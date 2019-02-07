@@ -1,7 +1,5 @@
 # PlainZombies_wWolves
 
-# PlainZombies
-
 Version A17-b240v8
 -Updated all versions to disable Screamer horde calling instead of replacing with another zombie.
 
