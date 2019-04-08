@@ -1,4 +1,8 @@
-# PlainZombies_wWolves
+# TZ_PlainZombies_Wolves
+
+Version A17.2v9
+Simplified xpaths for all files
+Removed Radiated/Feral versions. Refer to the link in the description to retain those functions.
 
 Version A17-b240v8
 -Updated all versions to disable Screamer horde calling instead of replacing with another zombie.
@@ -26,45 +30,23 @@ Version A17-2
 Version A17-1
 -Initial upload
 
-Disables Screamer horde calling and replaces the Wight, Spider, Dog, ZombieBear, Vulture, BossGrace, Wolf, and DireWolf with other zombies. 6 versions available.
+Disables Screamer horde calling and replaces the Wight, Spider, Dog, ZombieBear, Vulture, BossGrace, Wolf, and DireWolf with other zombies.
+There is a variation that includes wolves.
 
-Replaces with:
-
+All versions replace these:
+-Screamer horde calling
 -Wight = Burnt
 -Spider =Nurse
 -Dog = Cheerleader
 -ZombieBear = Fat Cop
 -ZombieVulture = Soldier
 -BossGrace = FarmerFeral
--Wolf = Biker
--DireWolf = Biker
 
 OPTIONAL:
+-Wolves = Includes Wolf, DireWolf
 
--NoRad = Feral versions of themselves
--NoFeral_NoRad = normal versions of themselves
-
-NOTE: If you want wolves, make sure to pick a version pack with "_wWolves"
-
-
-There are 6 versions:
-
-[WITHOUT WOLVES]
-
--TraditionalZombies_PlainZombies- Normal Version (includes feral/radiated)
--TraditionalZombies_PlainZombies_NoRad- No Radiated 
--TraditionalZombies_PlainZombies_NoFeral_NoRad- No Feral or Radiated
-
-[WITH WOLVES]
-
--TraditionalZombies_PlainZombies_wWolves- Normal Version with Wolves(includes feral/radiated)
--TraditionalZombies_PlainZombies_NoRad_wWolves- Removes any radiated zombies, keeps wolves
--TraditionalZombies_PlainZombies_NoFeral_NoRad_wWolves- Removes any feral/radiated zombies, keeps wolves
-
-NOTE: Bears are left in, just the zombie version that was removed
-
+NOTE: Removal of Ferals and Radiated has been removed as an option from this mod, for those options please refer to Traditional Zombies - No Ferals and or Radiated
 
 
 INSTALL: unzip and place TraditionalZombies_PlainZombies folder into the Mods folder, located @ steamlibrary/steamapps/common/7 days to die/Mods
-
 UNINSTALL: delete TraditionalZombies_PlainZombies folder from the Mods folder, located @ steamlibrary/steamapps/common/7 days to die/Mods
