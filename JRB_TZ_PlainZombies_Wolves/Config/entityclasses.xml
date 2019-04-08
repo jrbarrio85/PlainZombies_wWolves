@@ -1,0 +1,6 @@
+<TZ_PlainZombies_Wolves>
+
+<!-- Disable screamer horde calling -->
+	 <set xpath="/entity_classes/entity_class[contains(@name, 'Screamer')]/property[contains(@name, 'Alert')]/@value">Enemies/Base_Zombie_Female2/zombiefemale2alert</set>
+		
+</TZ_PlainZombies_Wolves>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="JRB_TZ_PlainZombies_Wolves" />
+		<Description value="Replaces Screamer, Wight, Spider, Dog, ZombieBear, ZombieVulture, and BossGrace with other zombies." />
+		<Author value="jrbarrio" />
+		<Version value="9.0" />
+
+	</ModInfo>
+</xml>

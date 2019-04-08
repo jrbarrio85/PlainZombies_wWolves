@@ -1,0 +1,17 @@
+<TZ_PlainZombies_Wolves>
+
+<!-- Spider -->
+	<set xpath="/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'zombieSpider')]/@name">zombieNurse</set>
+<!-- Wight -->
+	<set xpath="/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'zombieWight')]/@name">zombieBurnt</set>
+<!-- BossGrace -->
+	<set xpath="/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'BossGrace')]/@name">zombieFarmerFeral</set>
+<!-- ZombieDog -->
+	<set xpath="/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'ZombieDog')]/@name">zombieCheerleader</set>
+<!-- zombieBear -->
+	<set xpath="/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'ZombieBear')]/@name">zombieFatCop</set>
+<!-- zombieVulture -->
+	<set xpath="/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'ZombieVulture')]/@name">zombieSoldier</set>
+
+	
+</TZ_PlainZombies_Wolves>
